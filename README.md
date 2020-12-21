@@ -11,6 +11,14 @@ This how the dataset looks like in wordcloud :
 ![Alt text](Dataset/wordcloud.png)
 
 
+### Create by
+ - Ghinaa Zain Nabiilah
+ - Meidy Tataluckyta
+ - Putri Apriyanti Windya
+ - Rizky Nur Alfian
+Data Science 01
+
+
 ### Limitation
  * Indonesian language text is preferred.
 
