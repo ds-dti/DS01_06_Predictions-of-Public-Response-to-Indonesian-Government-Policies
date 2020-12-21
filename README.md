@@ -12,11 +12,11 @@ This how the dataset looks like in wordcloud :
 
 
 ### Create by
+Data Science 01
  - Ghinaa Zain Nabiilah
  - Meidy Tataluckyta
  - Putri Apriyanti Windya
  - Rizky Nur Alfian
-Data Science 01
 
 
 ### Limitation
