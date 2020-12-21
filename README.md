@@ -2,6 +2,13 @@
 
 The model aims to predict public response to government policies based on someone's tweet. The research conducted aims to build a sentiment analysis pros and cons that can be used in considering new policies. The model will accept input from Twitter users that will be grouped into two classes, namely a positive class and a negative class.
 
+### Create by
+Data Science 01
+ - Ghinaa Zain Nabiilah
+ - Meidy Tataluckyta
+ - Putri Apriyanti Windya
+ - Rizky Nur Alfian
+ 
 
 ### Dataset
 from crawling process by filtering Tweet on certain keywords related to government policies such as "vaccine" that related to government policies regarding vaccines.
@@ -9,14 +16,6 @@ from crawling process by filtering Tweet on certain keywords related to governme
 Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Response-to-Indonesian-Government-Policies/main/Dataset/raw%20dataset.csv
 This how the dataset looks like in wordcloud :
 ![Alt text](Dataset/wordcloud.png)
-
-
-### Create by
-Data Science 01
- - Ghinaa Zain Nabiilah
- - Meidy Tataluckyta
- - Putri Apriyanti Windya
- - Rizky Nur Alfian
 
 
 ### Limitation
